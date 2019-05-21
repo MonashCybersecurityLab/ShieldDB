@@ -2,9 +2,9 @@ The prototype demonstrates an encrypted streaming database system, named ShieldD
 
 ShieldDB is developed by using Python 3.6. It requires Pycrypto 2.6.1 package, Flask micro web framework, and RocksDB v.0.7.0 database.
 
-Flask installation can be found (here)[http://flask.pocoo.org/].
+Flask installation can be found at http://flask.pocoo.org/.
 
-RocksDB installation can be found (here)[https://github.com/twmht/python-rocksdb]
+RocksDB installation can be found at https://github.com/twmht/python-rocksdb.
 
 Need to download this link
 [data 256](https://drive.google.com/file/d/199SX2VG3XlwTyMwnduxQMUW-YVrhnaB8/view?usp=sharing)
