@@ -17,13 +17,13 @@ The streaming dataset can be download at this link [streaming data](https://driv
 
 Deployment instruction:
 
-*Deploying Shield_server at
+* Deploying Shield_server at
 
-*Deploy streaming operation at
+* Deploy streaming operation at
 
-*Deploying re-encryption at
+* Deploying re-encryption at
 
-*Deploying flushing at
+* Deploying flushing at
 
 
 Please contact us for technical issues at:
