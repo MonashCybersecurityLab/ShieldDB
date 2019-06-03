@@ -15,7 +15,7 @@ Here, we provide an example of streaming dataset and padding dataset regarding d
 
 Above padding datasets need to be unzipped to a folder, named *data256* or *data512*, and placed in the same directory of the system.
 
-The streaming dataset can be download at this link [streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing)
+The streaming dataset can be download at this link [streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing).
 This dataset needs to be unzipped to a folder, named *streaming*, and placed in the same directory of the system.
 
 Deployment instruction:
