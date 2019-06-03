@@ -7,11 +7,11 @@ Flask installation can be found at http://flask.pocoo.org/.
 
 RocksDB installation can be found at https://github.com/twmht/python-rocksdb.
 
-Need to download this link
+We provide an example of streaming dataset and padding dataset regarding different values of the security parameter *alpha*
 
-[data 256](https://drive.google.com/file/d/199SX2VG3XlwTyMwnduxQMUW-YVrhnaB8/view?usp=sharing)
+* For alpha=256, please download this link [data 256](https://drive.google.com/file/d/199SX2VG3XlwTyMwnduxQMUW-YVrhnaB8/view?usp=sharing)
 
-[data 512](https://drive.google.com/file/d/1MfUwpc0BANBy6hzd2JlHJ8Z7xYI7MAa5/view?usp=sharing)
+* For alpha=512, please download this link [data 512](https://drive.google.com/file/d/1MfUwpc0BANBy6hzd2JlHJ8Z7xYI7MAa5/view?usp=sharing)
 
 [streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing)
 
