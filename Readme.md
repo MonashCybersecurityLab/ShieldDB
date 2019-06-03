@@ -13,14 +13,17 @@ Here, we provide an example of streaming dataset and padding dataset regarding d
 
 * For alpha=512, please download this link [data 512](https://drive.google.com/file/d/1MfUwpc0BANBy6hzd2JlHJ8Z7xYI7MAa5/view?usp=sharing)
 
-[streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing)
+The streaming dataset can be download at this link [streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing)
 
 Deployment instruction:
 
-Deploying Shield_server at
-Deploy streaming operation at
-Deploying re-encryption at
-Deploying flushing at
+*Deploying Shield_server at
+
+*Deploy streaming operation at
+
+*Deploying re-encryption at
+
+*Deploying flushing at
 
 
 Please contact us for technical issues at:
