@@ -23,5 +23,7 @@ Deploying re-encryption at
 Deploying flushing at
 
 
-Please contact us for technical issues at.
-
+Please contact us for technical issues at:
+  + Viet Vo viet.vo@monash.edu
+  + Xingliang Yuan xingliang.yuan@monash.edu
+  + Shifeng Sun shifeng.sun@monash.edu
