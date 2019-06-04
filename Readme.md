@@ -20,13 +20,10 @@ This dataset needs to be unzipped to a folder, named *streaming*, and placed in 
 
 Deployment instruction:
 
-* Deploying Shield_server at
+* Deploy Shield_server by using *python3 shield_server.py*
 
-* Deploy streaming operation at
+* Deploy Shield_cli_streaming by using *python3 shield_stream.py*
 
-* Deploying re-encryption at
-
-* Deploying flushing at
 
 
 Please contact us for technical issues at:
