@@ -7,23 +7,21 @@ Flask installation can be found at http://flask.pocoo.org/.
 
 RocksDB installation can be found at https://github.com/twmht/python-rocksdb.
 
-Here, we provide an example of streaming dataset and padding dataset regarding different values of the security parameter *alpha*
+Here, we provide an example of streaming dataset and padding dataset regarding *alpha=156*. The data can be downloaded from this link.
 
-* For alpha=256, please download this link [data 256](https://drive.google.com/file/d/199SX2VG3XlwTyMwnduxQMUW-YVrhnaB8/view?usp=sharing)
+https://drive.google.com/drive/folders/1e837hYzcwtxMn-IuEPFL8Uid8-ZdgqzA?usp=sharing
 
-* For alpha=512, please download this link [data 512](https://drive.google.com/file/d/1MfUwpc0BANBy6hzd2JlHJ8Z7xYI7MAa5/view?usp=sharing)
+* The streaming dataset needs to be unzipped to a folder named as *streaming* and placed in the same directory of the system.
+* The padding dataset should be unzipped to a folder named as *data256* and placed in the same directory of the system.
 
-Above padding datasets need to be unzipped to folders, named *data256* or *data512*, and placed in the same directory of the system.
-
-The streaming dataset can be download at this link [streaming data](https://drive.google.com/file/d/16Hu4Ew1ad8c_HiX2IkmFBb0I3T-kibX6/view?usp=sharing).
-This dataset needs to be unzipped to a folder, named *streaming*, and placed in the same directory of the system.
 
 Deployment instruction:
 
-* Deploy Shield_server by using *python3 shield_server.py*
+1. Open a terminal and deploy Shield_server by using *python3 shield_server.py*
 
-* Deploy Shield_cli_streaming by using *python3 shield_stream.py*
+2. Open a terminal to deploy Shield_cli_streaming by using *python3 shield_stream.py*
 
+3. After the *streaming* completed, open a terminal to deploy Shield_search by using *python3 shield_search.py*
 
 
 Please contact us for technical issues at:
